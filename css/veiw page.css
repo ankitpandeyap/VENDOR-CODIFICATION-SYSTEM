@@ -1,0 +1,6 @@
+body {
+    font-family: 'Helvetica', 'Calibri', sans-serif;
+    font-size: 16px;
+    margin: 1rem 10rem;
+    background-image: url(../plate.jpg);
+    background-size: contain;
